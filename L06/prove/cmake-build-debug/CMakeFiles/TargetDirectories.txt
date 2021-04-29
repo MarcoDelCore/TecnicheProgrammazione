@@ -1,0 +1,3 @@
+C:/Users/marco/Desktop/PoliTo/I Anno/II Semestre/Tecniche di programmazione/Projects/L06/prove/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/marco/Desktop/PoliTo/I Anno/II Semestre/Tecniche di programmazione/Projects/L06/prove/cmake-build-debug/CMakeFiles/prove.dir
+C:/Users/marco/Desktop/PoliTo/I Anno/II Semestre/Tecniche di programmazione/Projects/L06/prove/cmake-build-debug/CMakeFiles/edit_cache.dir

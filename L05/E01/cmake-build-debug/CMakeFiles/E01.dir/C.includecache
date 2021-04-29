@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marco/Desktop/PoliTo/I Anno/II Semestre/Tecniche di programmazione/Projects/L05/E01/main.c
+stdio.h
+-
+

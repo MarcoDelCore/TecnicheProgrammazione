@@ -1,0 +1,3 @@
+Numero massimo: 12.
+Numero minimo: -3.
+Numeri scartati: 2.
