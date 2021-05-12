@@ -44,6 +44,7 @@ int main() {
                tab[i].destinazione, tab[i].data, tab[i].ora_p, tab[i].ora_a, &tab[i].ritardo);
     }
 
+    printf("Menu: date/partenza/capolinea/ritardo/ritardo_tot/fine\n");
     comando = leggiComando();
     do {
         if (comando==r_err) {
